@@ -1,10 +1,11 @@
 (* Solutions to SA2 assignment, Intro to ML *)
 
-(* Name:                                    *)
-(* Time spent on HW6:
+(* Name:  Adam Fehse                                  *)
+(* Time spent on HW6: Sat, Jan 25 2 hrs reading
 *)
 
 (* Collaborators and references:
+Spec, Reading assg's.
 *)
 
 (* indicate planning to use the Unit testing module *)
